@@ -56,7 +56,7 @@ Para organizar el **desarrollo del proyecto** y cumplir con los objetivos establ
 
 **Análisis de usabilidad II**:
     Realizar pruebas de usabilidad adicionales y solucionar posibles conflictos detectados.
-    
+
 **Testing y despliegue en producción**:
     Diseñar un sistema de testing para crear pruebas unitarias.
     Configurar un entorno DevOps para trabajar con Integración Continua y Despliegue Continuo (CI/CD).
@@ -64,7 +64,11 @@ Para organizar el **desarrollo del proyecto** y cumplir con los objetivos establ
 
 # Versiones
 El desarrollo del proyecto se dividirá en las siguientes versiones basadas en las funcionalidades a implementar:
+
 **VERSIÓN 1.0**: Implementación de la publicación de proyectos y autoevaluaciones.
+
 **VERSIÓN 2.0**: Implementación de las coevaluaciones entre estudiantes.
+
 **VERSIÓN 3.0**: Implementación de un sistema avanzado de evaluación basado en rúbricas y criterios personalizados establecidos por el profesor.
+
 
