@@ -66,7 +66,9 @@ Para organizar el **desarrollo del proyecto** y cumplir con los objetivos establ
 El desarrollo del proyecto se dividirá en las siguientes versiones basadas en las funcionalidades a implementar:
 
 **VERSIÓN 1.0**: Implementación de la publicación de proyectos y autoevaluaciones.
+
 **VERSIÓN 2.0**: Implementación de las coevaluaciones entre estudiantes.
+
 **VERSIÓN 3.0**: Implementación de un sistema avanzado de evaluación basado en rúbricas y criterios personalizados establecidos por el profesor.
 
 
