@@ -72,3 +72,12 @@ El desarrollo del proyecto se dividirá en las siguientes versiones basadas en l
 **VERSIÓN 3.0**: Implementación de un sistema avanzado de evaluación basado en rúbricas y criterios personalizados establecidos por el profesor.
 
 
+## Casos de uso foto
+
+![Foto Casos de uso](https://carrebola.github.io/vanillaPill/assets/images/diagramaCasosUso_1-3fc60e64208490df3bd2eb0f595cedbc.png)
+
+
+## Foto bocetos
+
+![Foto Bocetos](https://carrebola.github.io/vanillaPill/assets/images/1684861508218-79dad6473fd7d571d5f73e96f893af7f.jpg)
+
